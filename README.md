@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 📫 How to reach me **mcroseemily@gmail.com**
+- 📫 How to reach me **hello@emilymcrose.codes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
