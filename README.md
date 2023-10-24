@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/mcrosee_" target="blank"><img src="https://img.shields.io/twitter/follow/mcrosee_?logo=twitter&style=for-the-badge" alt="mcrosee_" /></a> </p>
 
-- 🔭 I’m currently working on **Telescope**
+- I’m currently working on **Telescope**
 
-- ✍️ I’m currently learning **TensorFlow**
+- I’m currently learning **TensorFlow**
 
-- 📫 How to reach me **mcroseemily@gmail.com**
+- How to reach me **mcroseemily@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
