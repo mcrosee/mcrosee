@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Telescope**
 
-- 🌱 I’m currently learning **TensorFlow**
+- ✍️ I’m currently learning **TensorFlow**
 
-- 📫 How to reach me **hello@emilymcrose.codes**
+- 📫 How to reach me **mcroseemily@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
