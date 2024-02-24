@@ -1,10 +1,6 @@
 <h1 align="center">Emily McRose</h1>
 <h3 align="center">a passionate engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcrosee&label=Profile%20views&color=0e75b6&style=flat" alt="mcrosee" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mcrosee_" target="blank"><img src="https://img.shields.io/twitter/follow/mcrosee_?logo=twitter&style=for-the-badge" alt="mcrosee_" /></a> </p>
-
 - I’m currently working on **Telescope**
 
 - I’m currently learning **TensorFlow**
