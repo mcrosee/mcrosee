@@ -1,2 +1,2 @@
 <h1 align="center">Emily McRose</h1>
-<h3 align="center">AI & Cybersecurity Engineer (Specializing in detecting and preventing privilege escalation attacks)</h3>
+<h3 align="center"> Security Engineer | Detection & Response | Threat Intelligence </h3>
